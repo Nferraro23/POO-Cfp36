@@ -34,5 +34,8 @@ public class Ejercicio18 {
         frame.add(button);
 
         frame.setVisible(true);
+        
+        frame.setResizable(false);
+        
     }
 }
