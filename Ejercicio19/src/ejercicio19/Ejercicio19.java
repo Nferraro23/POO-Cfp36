@@ -1,10 +1,6 @@
 
 package ejercicio19;
 
-/**
- *
- * @author Alumno
- */
 import javax.swing.*;
 import java.awt.event.*;
 
@@ -13,19 +9,23 @@ public class Ejercicio19 {
     public static void main(String[] args) {
         
         JFrame frame = new JFrame("Numero maximo");
+        
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 400);
+        frame.setSize(400, 300);
         frame.setLayout(null);
 
         JLabel number1Label = new JLabel("Número 1:");
+        
         number1Label.setBounds(50, 50, 80, 25);
         frame.add(number1Label);
 
         JTextField number1Field = new JTextField();
+        
         number1Field.setBounds(130, 50, 165, 25);
         frame.add(number1Field);
 
         JLabel number2Label = new JLabel("Número 2:");
+        
         number2Label.setBounds(50, 100, 80, 25);
         frame.add(number2Label);
 
