@@ -116,7 +116,7 @@ public class Escritorio extends javax.swing.JFrame {
             }
         });
 
-        jMenu11.setText("Convertor Monedas");
+        jMenu11.setText("Conversion de Monedas");
         jMenu11.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jMenu11MouseClicked(evt);

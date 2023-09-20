@@ -107,7 +107,7 @@
           <SubComponents>
             <Menu class="javax.swing.JMenu" name="jMenu11">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Convertor Monedas"/>
+                <Property name="text" type="java.lang.String" value="Conversion de Monedas"/>
               </Properties>
               <Events>
                 <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jMenu11MouseClicked"/>

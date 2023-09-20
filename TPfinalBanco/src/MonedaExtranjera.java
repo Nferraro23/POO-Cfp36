@@ -10,7 +10,7 @@
  */
 public class MonedaExtranjera extends javax.swing.JInternalFrame {
 
-double cambio_dolar = 100.75,cambio_real=18.20,cambio_euro =118.78;
+double cambio_dolar = 657.90,cambio_real=71.71,cambio_euro =372.78;
 
     public MonedaExtranjera() {
         initComponents();
