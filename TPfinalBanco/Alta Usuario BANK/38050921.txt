@@ -1,0 +1,11 @@
+Cuit= 30414325212		
+Genero= Masculino
+Nombre= nicolas
+Apellido= ferraro
+Fecha= 23/09/1998
+Domicilio= españa 142
+Localidad= avellaneda
+Provincia= Buenos Aires
+Email= nico8ferraro@hotmail.com
+Estado= Casado/a
+Hijoso= 0
