@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author pc
+ * @author 
  */
 public class Seguros1 extends javax.swing.JFrame {
 

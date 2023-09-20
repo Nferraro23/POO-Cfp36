@@ -10,7 +10,7 @@ package finalbanco;
  */
 public class CambioMoneda extends javax.swing.JInternalFrame {
 
-    double cambio_dolar = 127.83, cambio_real = 23.7 , cambio_euro = 128.26;
+    double cambio_dolar = 657.90, cambio_real = 71.71 , cambio_euro = 372.78;
     public CambioMoneda() {
         initComponents();
     }
