@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author agust
+ * @author 
  */
 public class Cliente extends javax.swing.JInternalFrame {
 

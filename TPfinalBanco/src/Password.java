@@ -91,7 +91,7 @@ public class Password extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-            if("CarballoJoaquin".equalsIgnoreCase(User.getText())&& "TPFINAL".equalsIgnoreCase(Contrasena.getText())){
+            if("NicolasFerraro".equalsIgnoreCase(User.getText())&& "123456".equalsIgnoreCase(Contrasena.getText())){
                     Escritorio f1=new Escritorio();
                     f1.setVisible(true);
                     this.setVisible(false);

@@ -6,7 +6,7 @@ package finalbanco;
 
 /**
  *
- * @author agust
+ * @author 
  */
 public class Ingreso extends javax.swing.JFrame {
 

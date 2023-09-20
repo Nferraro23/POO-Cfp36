@@ -6,7 +6,7 @@ package finalbanco;
 
 /**
  *
- * @author agust
+ * @author 
  */
 class FileWriter {
 

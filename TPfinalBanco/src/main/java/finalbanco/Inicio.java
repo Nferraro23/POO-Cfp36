@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author agust
+ * @author 
  */
 public class Inicio extends javax.swing.JFrame {
 
